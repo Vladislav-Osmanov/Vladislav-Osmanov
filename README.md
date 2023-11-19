@@ -20,6 +20,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
+  
 ---
 
   ### 💻 Технологии:
