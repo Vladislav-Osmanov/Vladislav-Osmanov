@@ -1,16 +1,15 @@
-### Hi there 👋
+#Привет, меня зовут Владислав!👋
 
-<!--
-**Vladislav-Osmanov/Vladislav-Osmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в начале 2023 года со Школы SkillBox, где я прожe интенсив.На данный момент я пробую себя как Frontend-разработчик, пробоваю изучать язык JavaScript, React.Но больше всего меня зацепила веб-разработка! В настоящий момент мое обучение продолжается, но я хотел бы пробовать свои навыки на настоящих проектах!
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :seedling: Завершил курсы по Вёрстка"Базовый уровень" и Вёрстка"Продвинутый уровень"!
+
+---
