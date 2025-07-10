@@ -4,7 +4,17 @@
 
 ### Обо мне:
 
-Frontend-разработчик! Фронтенд-разработкой заинтересовался после того, как увидел видео о создании сайтов и о том, как их можно сделать красивыми, и приятными для пользования людей! Решил попробовать себя в этом направлении, ведь здесь есть возможность экспериментировать, создавать красивые сайты, создавать понятные интерфейсы! Всегда нужно пробовать что-то новое для себя!
+Я начинающий frontend-разработчик, увлечённый созданием удобных и современных
+веб-интерфейсов. Изучил базовые и продвинутые технологии HTML и CSS, включая
+адаптивную верстку, Flexbox, CSS Grid и анимации. Умею работать с SVG, оптимизировать
+загрузку сайтов и использовать инструменты сборки и препроцессоры.
+В работе ценю ответственность, терпеливость и внимательность к деталям. Обладаю
+добротой, честностью и готовностью помогать коллегам, что способствует эффективному
+командному взаимодействию. Люблю активный образ жизни и спорт, что помогает
+поддерживать энергию и позитивный настрой.
+Я открыт к новым знаниям, стремлюсь развиваться и преодолевать трудности с
+уверенностью и смелостью. Моя цель — создавать качественные, доступные и удобные для
+пользователей веб-сайты, которые приносят пользу и радость.
 
 ---
 
@@ -24,12 +34,12 @@ Frontend-разработчик! Фронтенд-разработкой заи�
  ### Технологии которыми я владею:
 
 <div>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /</a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
- 
 </div>
 
 ---
@@ -37,7 +47,6 @@ Frontend-разработчик! Фронтенд-разработкой заи�
  ### Технологии которым пристоит обущится:
 
 <div>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
